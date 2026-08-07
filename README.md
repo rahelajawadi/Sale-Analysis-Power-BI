@@ -45,4 +45,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens at http://localhost:8501.
+The app opens at https://sale-analysis-power-bi-4mz.streamlit.app/
