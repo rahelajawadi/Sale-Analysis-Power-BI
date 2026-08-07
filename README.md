@@ -1,7 +1,5 @@
-# Sale Dashboard – Full Insight (Streamlit)
+# Sales Dashboard 
 
-A Streamlit recreation of the Power BI report in `powerBISale.pbix`
-(see `sales.PNG` for the original dashboard).
 
 ![Original dashboard](sales.PNG)
 
