@@ -38,11 +38,7 @@ Expected columns (case-insensitive, common aliases accepted):
 To get the exact numbers from the original report, export the table from
 Power BI Desktop (or DAX Studio) as `sales.csv` into this folder.
 
-## Run
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
 ```
 
 The app opens at https://sale-analysis-power-bi-4mz.streamlit.app/
