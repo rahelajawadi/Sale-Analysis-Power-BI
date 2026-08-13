@@ -3,7 +3,6 @@
 
 
 ![Original dashboard](sales.PNG)
-
 # Sales Analysis Dashboard
 
 <p align="center">
@@ -22,23 +21,24 @@ This project analyzes sales data across different regions, categories, shipping 
 
 ## Highlights
 
-**KPI Dashboard**  
-Displays **Total Sales, Total Profit,** and **Total Quantity**.
+- **KPI Dashboard**
+  - Displays **Total Sales, Total Profit,** and **Total Quantity**.
 
-**Regional Analysis**  
-Visualizes quantity by region using a treemap.
+- **Regional Analysis**
+  - Visualizes quantity by region using a treemap.
 
-**Time-Series Analysis**  
-Tracks sales and profit by order date and analyzes sales by year and month.
+- **Time-Series Analysis**
+  - Tracks sales and profit by order date.
+  - Analyzes sales by year and month.
 
-**Category & Shipping Analysis**  
-Compares sales across product categories and shipping modes.
+- **Category & Shipping Analysis**
+  - Compares sales across product categories and shipping modes.
 
-**Interactive Filters**  
-Filter results by **Year, Country, Region, Category, Ship Mode,** and date range.
+- **Interactive Filters**
+  - Filter results by **Year, Country, Region, Category, Ship Mode,** and date range.
 
-**Data Export**  
-Allows users to download filtered data as a CSV file.
+- **Data Export**
+  - Allows users to download filtered data as a CSV file.
 
 ## Streamlit App
 
