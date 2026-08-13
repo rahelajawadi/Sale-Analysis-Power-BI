@@ -20,4 +20,4 @@
 
 ```
 
-The streamlit app for this project is hosted on: https://sale-analysis-power-bi-4mz.streamlit.app/
+The streamlit app for this project is hosted on https://sale-analysis-power-bi-4mz.streamlit.app/
