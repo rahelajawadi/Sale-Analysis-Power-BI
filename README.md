@@ -9,12 +9,6 @@
   <strong>Interactive Sales Analysis & Business Intelligence Dashboard</strong>
 </p>
 
-<p align="center">
-  An interactive sales analytics dashboard built with Power BI and deployed through Streamlit, providing insights into sales, profit, quantity, and regional performance.
-</p>
-
----
-
 ## Overview
 
 This project analyzes sales data across different regions, categories, shipping methods, and time periods. Users can interact with filters to explore key business metrics and download filtered data for further analysis.
