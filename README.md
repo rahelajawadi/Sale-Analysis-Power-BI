@@ -1,13 +1,8 @@
-# Sales Dashboard 
-
-
-
-![Original dashboard](sales.PNG)
 # Sales Analysis Dashboard
 
-<p align="center">
-  <strong>Interactive Sales Analysis & Business Intelligence Dashboard</strong>
-</p>
+![Original dashboard](sales.PNG)
+
+
 
 ## Overview
 
